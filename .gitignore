@@ -1,0 +1,8 @@
+node_modules/
+dist/
+logs/
+src/public/apidoc
+.vscode
+
+config.env
+/.env
